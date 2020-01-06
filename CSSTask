@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+    <html>
+    <body id="s1">
+            <div id="s2">
+                <span id="s3">R</span>
+                <h1 id="s4">Shrimp and Chorizo Paella<h1>
+                <h2 id="s5">September 14,2016<h2>
+            </div>
+            <style type="text/css">
+                #s1 {
+                    border-style:solid;
+                    border-color:black;
+                    border-width:1px;
+                    width:500px;
+                    height:720px;
+                    margin-left:400px;
+                }
+                #s2 {
+                    left:50px;
+                }
+                #s3 {
+                    background-color: orangered;
+                    color:white;
+                    border-radius: 500px;
+                    text-align:center;
+                    line-height: 35px;
+                    position:absolute;
+                    top:30px;
+                    left:430px;
+                    width:2.5%;
+                    height:5%;
+                    
+                }
+                #s4 {
+                    margin-left:80px;
+                    font-size: 130%;
+                }
+                #s5 {
+                    color:darkgrey;
+                    margin-left:80px;
+                    font-size: 130%;
+                    margin-top: 10px;
+                }
+            </style>
+            <div id="s6">
+                    <img src="https://img.taste.com.au/eO60B2OH/w643-h428-cfill-q90/taste/2017/03/onepan-prawn-chor-paella-125252-1.jpg" id="s7" >
+                    <style type="text/css">
+                    #s6 {
+                        text-align: center;
+                    }
+                    
+                    #s7 {
+                        width:500px;
+                    }
+                    </style>
+            </div>
+            <div id="s8">
+                <p>
+                 This impressive paella is a perfect party dish and<br>a fun  meal to cook together with your guests. <br>
+                 Add 1 cup of frozen peas along with the mussels,<br>if you like.
+                </P>
+                <div id="s11">
+                    <p id="s9">&#10084;</p>
+                    <img src="http://pic.616pic.com/ys_bnew_img/00/28/17/DW0VNK27z6.jpg" id="s10";>
+                    <img src="http://pic.616pic.com/ys_bnew_img/00/42/60/kP5QI6FQG8.jpg" id="s12";>
+                </div>
+                <style type="text/css">
+                #s11{
+                    display:flex;
+                    flex-direction:row;
+                }
+                #s8{
+                    text-align:left;
+                    padding-left:20px;
+                    height:100px;
+                }
+                #s9{
+                    font-size:60px;
+                    color:#ccc;
+                    position:relative;
+                    padding-left:10px;
+                    border-radius: 150px;
+                    width:15%;
+                    
+                    
+                }
+                #s9:hover{
+                    background-color: darkgray;
+                }
+                #s10{
+                    float:right;
+                    width:50px;
+                    height:50px;
+                    color:#ccc;
+                    position:relative;
+                    padding-top: 10px;
+                    padding-left:10px;
+                    padding-right: 10px;
+                    padding-bottom: 10px;
+                    margin-top:60px;
+                                      
+               }
+                        
+               #s12{
+                   float:right;
+                   width:30px;
+                   height:25px;
+                   color:#ccc;
+                   position:relative;
+                   padding-top:10px;
+                   padding-left:10px;
+                   margin-left:250px;
+                   margin-top:80px;
+                   
+               }
+                </style>
+        
+        </div>
+        
+    </body>
+</html> 
